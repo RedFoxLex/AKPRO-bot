@@ -1,5 +1,3 @@
-# Jest Configuration
-
 module.exports = {
   testEnvironment: 'node',
   coverageDirectory: 'coverage',
